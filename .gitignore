@@ -1,0 +1,13 @@
+*-backups/
+*.bak
+fp-info-cache
+*.kicad_prl
+temp-freerouting.dsn
+~*.lck
+_autosave-*
+*.zip
+/burner/
+/burner2/
+.directory
+/buckboost/
+/buckboostv0/
